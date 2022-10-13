@@ -1,0 +1,15 @@
+current directory: /Users/rosiehamer/Documents/Projects/Chalet sep 2022/ruby-on-rails-udemy/blog_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+/Users/rosiehamer/.rbenv/versions/3.1.2/bin/ruby -I /Users/rosiehamer/.rbenv/versions/3.1.2/lib/ruby/3.1.0 -r ./siteconf20221013-43079-5gmo1x.rb extconf.rb
+creating Makefile
+
+current directory: /Users/rosiehamer/Documents/Projects/Chalet sep 2022/ruby-on-rails-udemy/blog_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/rosiehamer/Documents/Projects/Chalet sep 2022/ruby-on-rails-udemy/blog_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/rosiehamer/Documents/Projects/Chalet sep 2022/ruby-on-rails-udemy/blog_app/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.13.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20221013-43079-p2l3zi/bootsnap
